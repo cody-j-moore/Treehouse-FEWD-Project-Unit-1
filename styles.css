@@ -72,6 +72,13 @@ header {
   overflow: hidden;
   padding-top: 60px;
 }
+.header3{
+  text-align: bottom left;
+  background: url('images/rsz_1matthew-t-rader-xv6d0s-rm7m-unsplash.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
 header .profile-image {
   margin-top: 50px;
   width: 150px;
