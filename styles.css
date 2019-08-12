@@ -103,8 +103,11 @@ header .profile-image:hover {
   color: black;
 }
 .title {
-  margin-top: 310px;
+  padding: 50px;
+  text-align: center;
+  font-size: 100px;
   color: white;
+  text-shadow: black
 }
 .card {
   margin: 30px;
