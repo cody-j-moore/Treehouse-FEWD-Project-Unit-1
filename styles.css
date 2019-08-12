@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/rsz_winter_forrest_-_near_budapest_hungary.jpg') no-repeat top center ;
+  background: url('images/rsz_pedro-lastra-waedcxsiakk-unsplash.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -87,6 +87,9 @@ header .profile-image:hover {
 .location {
   background-color: #efefef;
   color: black;
+}
+.title {
+  color: white;
 }
 .card {
   margin: 30px;
