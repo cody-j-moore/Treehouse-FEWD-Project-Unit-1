@@ -66,14 +66,14 @@ header {
   line-height: 1.5;
 }
 .header2{
-  text-align: bottom left;
+  text-align: left;
   background: url('images/rsz_seth-schwiet-wb3ujikljwq-unsplash.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
 }
 .header3{
-  text-align: bottom left;
+  text-align: left;
   background: url('images/rsz_1matthew-t-rader-xv6d0s-rm7m-unsplash.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
@@ -103,6 +103,7 @@ header .profile-image:hover {
   color: black;
 }
 .title {
+  margin-top: 310px;
   color: white;
 }
 .card {
