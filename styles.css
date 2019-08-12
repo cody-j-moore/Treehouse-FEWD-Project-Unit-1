@@ -129,7 +129,9 @@ header .profile-image:hover {
 .card:hover {
   border-color: #5f33ff;
 }
-
+.card2:hover {
+  border-color: #5f33ff;
+}
 ul.skills {
   padding: 0;
   text-align: center;
